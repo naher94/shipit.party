@@ -2,7 +2,8 @@ body {
   background-color: #e52351; }
 
 .shipit {
-  width: 30vw; }
+  min-width: 16em;
+  width: 30vh; }
 
 .container {
   text-align: center;
@@ -15,6 +16,6 @@ body {
 .site-footer {
   border-top: none;
   text-align: center;
-  margin-top: 20em; }
+  margin-top: 30vh; }
   .site-footer img {
     width: 8em; }
